@@ -1,0 +1,84 @@
+Bachelor of Engineering
+Bachelor of Technology
+Bachelor of Science
+Bachelor of Commerce
+Bachelor of Arts
+Bachelor of Business Administration
+Bachelor of Computer Applications
+Bachelor of Pharmacy
+Bachelor of Architecture
+Bachelor of Dental Surgery
+Bachelor of Medicine
+Bachelor of Laws
+Bachelor of Fine Arts
+Bachelor of Hotel Management
+Bachelor of Education
+Bachelor of Social Work
+
+Master of Engineering
+Master of Technology
+Master of Science
+Master of Commerce
+Master of Arts
+Master of Business Administration
+Master of Computer Applications
+Master of Pharmacy
+Master of Architecture
+Master of Laws
+Master of Education
+Master of Social Work
+
+Doctor of Philosophy
+Doctor of Medicine
+
+B.E
+BE
+B.Tech
+BTech
+M.Tech
+MTech
+BCA
+MCA
+MBA
+B.Sc
+BSc
+M.Sc
+MSc
+B.Com
+BCom
+M.Com
+MCom
+BBA
+BA
+MA
+B.Pharm
+M.Pharm
+B.Arch
+M.Arch
+BDS
+MBBS
+LLB
+LLM
+BHM
+BHMCT
+BFA
+MSW
+BSW
+B.Ed
+M.Ed
+PhD
+Ph.D
+Diploma
+PG Diploma
+Post Graduate Diploma
+Advanced Diploma
+Polytechnic
+ITI
+PUC
+12th
+10th
+Higher Secondary
+Intermediate
+Associate Degree
+Certificate
+Professional Certificate

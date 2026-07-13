@@ -1,0 +1,181 @@
+Python
+Java
+C
+C++
+C#
+JavaScript
+TypeScript
+HTML
+HTML5
+CSS
+CSS3
+Bootstrap
+Tailwind CSS
+Material UI
+React
+React.js
+Redux
+Next.js
+Angular
+Vue
+Vue.js
+Svelte
+
+Node.js
+Express
+Express.js
+FastAPI
+Flask
+Django
+Spring
+Spring Boot
+Hibernate
+ASP.NET
+ASP.NET Core
+Laravel
+PHP
+Ruby
+Ruby on Rails
+Go
+Golang
+Rust
+Kotlin
+Swift
+
+SQL
+MySQL
+PostgreSQL
+MongoDB
+SQLite
+Oracle
+Microsoft SQL Server
+MariaDB
+Firebase
+Redis
+Cassandra
+DynamoDB
+Elasticsearch
+
+Docker
+Kubernetes
+Git
+GitHub
+GitLab
+Bitbucket
+Jenkins
+GitHub Actions
+CI/CD
+Terraform
+Ansible
+Nginx
+Apache
+Linux
+Unix
+Shell Scripting
+Bash
+
+AWS
+Amazon Web Services
+Azure
+Microsoft Azure
+Google Cloud
+Google Cloud Platform
+GCP
+DigitalOcean
+Heroku
+
+REST API
+RESTful API
+SOAP
+GraphQL
+gRPC
+Microservices
+JWT
+OAuth
+OAuth2
+
+Pandas
+NumPy
+SciPy
+Matplotlib
+Seaborn
+Scikit-learn
+TensorFlow
+Keras
+PyTorch
+XGBoost
+LightGBM
+
+Machine Learning
+Deep Learning
+Artificial Intelligence
+AI
+Natural Language Processing
+NLP
+Computer Vision
+OpenCV
+spaCy
+NLTK
+Transformers
+BERT
+Hugging Face
+LangChain
+LLM
+Generative AI
+Prompt Engineering
+RAG
+Vector Database
+FAISS
+ChromaDB
+
+Data Analysis
+Data Science
+Data Mining
+Data Visualization
+Power BI
+Tableau
+Excel
+
+Agile
+Scrum
+Kanban
+JIRA
+Confluence
+
+Testing
+Unit Testing
+Integration Testing
+Pytest
+JUnit
+Selenium
+Cypress
+Postman
+Swagger
+
+Networking
+TCP/IP
+HTTP
+HTTPS
+WebSockets
+DNS
+
+Cybersecurity
+OWASP
+Penetration Testing
+Ethical Hacking
+Encryption
+
+Android
+Android Studio
+Flutter
+React Native
+Xamarin
+iOS Development
+
+Communication
+Leadership
+Problem Solving
+Critical Thinking
+Teamwork
+Time Management
+Project Management
