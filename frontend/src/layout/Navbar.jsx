@@ -116,7 +116,9 @@ function Navbar() {
             <Divider />
 
             {notifications.map((item, index) => (
-              <MenuItem key={index}>
+              <MenuItem key={index}
+    onClick={() => setAnchorEl(null)}
+>
                 {item}
               </MenuItem>
             ))}

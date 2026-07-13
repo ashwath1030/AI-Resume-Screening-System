@@ -11,7 +11,6 @@ import Profile from "../pages/Profile";
 import ResumeUpload from "../pages/ResumeUpload/ResumeUpload";
 import Settings from "../Settings/Settings";
 import CandidateDetails from "../pages/CandidateDetails";
-import { register } from "../services/authService";
 import ProtectedRoute from "../components/ProtectedRoute";
 
 function AppRoutes() {

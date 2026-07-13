@@ -1,4 +1,4 @@
-import { Avatar, Box, Chip, Typography } from "@mui/material";
+import { Avatar, Box, Typography } from "@mui/material";
 import WavingHandIcon from "@mui/icons-material/WavingHand";
 
 function DashboardHeader() {
